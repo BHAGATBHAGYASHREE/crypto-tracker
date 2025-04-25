@@ -65,4 +65,5 @@ npm test
 
 ## Demo
 
-![Cryptocurrency Tracker Demo](demo.gif)
+![Cryptocurrency Tracker Demo]
+https://youtu.be/zQnjzWdCE5s
